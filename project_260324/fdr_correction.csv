@@ -1,0 +1,69 @@
+﻿axis,변인,test,p_original,p_corrected,significant_original,significant_FDR
+Axis1,맥락비율(mean_ctx_ratio),Mann-Whitney U,0.6140447028727741,0.9710474371011312,False,False
+Axis1,맥락비율(mean_ctx_ratio) (Spearman),Spearman,0.543999777474165,0.9188854237946729,False,False
+Axis1,전체 프롬프트 글자 수,Mann-Whitney U,0.4298493658231275,0.9188854237946729,False,False
+Axis1,전체 프롬프트 글자 수 (Spearman),Spearman,0.3025280655907723,0.9188854237946729,False,False
+Axis1,초기 프롬프트 길이,Mann-Whitney U,0.3686609328681266,0.9188854237946729,False,False
+Axis1,초기 프롬프트 길이 (Spearman),Spearman,0.3763581133499172,0.9188854237946729,False,False
+Axis1,평균 수정 프롬프트 길이,Mann-Whitney U,0.1957276283710037,0.8318424205767657,False,False
+Axis1,평균 수정 프롬프트 길이 (Spearman),Spearman,0.3841358073644493,0.9188854237946729,False,False
+Axis1,턴 수,Mann-Whitney U,0.8738630308883697,0.9728007519425059,False,False
+Axis1,턴 수 (Spearman),Spearman,0.8938195383699367,0.9728007519425059,False,False
+Axis1,첫-마지막 턴 거리,Mann-Whitney U,0.9127010310968688,0.9728007519425059,False,False
+Axis1,첫-마지막 턴 거리 (Spearman),Spearman,0.9385980068447588,0.9728007519425059,False,False
+Axis1,의미 총 변화량,Mann-Whitney U,0.7422337254366245,0.9728007519425059,False,False
+Axis1,의미 총 변화량 (Spearman),Spearman,0.9130954284568478,0.9728007519425059,False,False
+Axis1,참조 이미지 사용 횟수,Mann-Whitney U,0.3762477403919715,0.9188854237946729,False,False
+Axis1,참조 이미지 사용 횟수 (Spearman),Spearman,0.0521718606268974,0.8316471252645822,False,False
+Axis1,발산(first_last_distance),Mann-Whitney U,0.9127010310968688,0.9728007519425059,False,False
+Axis1,발산(first_last_distance) (Spearman),Spearman,0.9385980068447588,0.9728007519425059,False,False
+Axis1,수렴(divergence_slope),Mann-Whitney U,0.1834515717495402,0.8316471252645822,False,False
+Axis1,수렴(divergence_slope) (Spearman),Spearman,0.6760728354103703,0.9728007519425059,False,False
+Axis1,ideation_ratio,Mann-Whitney U,0.1300954011152805,0.8316471252645822,False,False
+Axis1,ideation_ratio (Spearman),Spearman,0.1771059010553226,0.8316471252645822,False,False
+Axis2,2-2 맥락비율 ideation FI vs FD,Mann-Whitney U,0.5391546095541453,0.9188854237946729,False,False
+Axis2,2-2 맥락비율 final FI vs FD,Mann-Whitney U,0.9584948585315868,0.9728007519425059,False,False
+Axis2,2-2 맥락비율 ideation vs final (paired),Wilcoxon,0.0017205620157967,0.1169982170741756,True,False
+Axis2,2-3 글자수 ideation FI vs FD,Mann-Whitney U,0.4966287700468135,0.9188854237946729,False,False
+Axis2,2-3 글자수 final FI vs FD,Mann-Whitney U,0.4997203222187548,0.9188854237946729,False,False
+Axis2,2-3 글자수 ideation vs final (paired),Wilcoxon,0.0674403520303729,0.8316471252645822,False,False
+Axis2,2-4 턴수 ideation FI vs FD,Mann-Whitney U,0.4074902347655164,0.9188854237946729,False,False
+Axis2,2-4 턴수 final FI vs FD,Mann-Whitney U,0.5454192309594561,0.9188854237946729,False,False
+Axis2,2-4 전환시점 FI vs FD,Mann-Whitney U,0.4074902347655164,0.9188854237946729,False,False
+Axis2,2-5 첫-마지막 ideation FI vs FD,Mann-Whitney U,0.3169950695941131,0.9188854237946729,False,False
+Axis2,2-5 첫-마지막 final FI vs FD,Mann-Whitney U,0.8654546933258497,0.9728007519425059,False,False
+Axis2,2-6 맥락비율변화 FI vs FD,Mann-Whitney U,0.2128336844455838,0.841906542050848,False,False
+Axis2,2-7 발산변화량 FI vs FD,Mann-Whitney U,0.2228576140722833,0.841906542050848,False,False
+Axis2,2-7 발산 ideation vs final (paired),Wilcoxon,0.5540338584644351,0.9188854237946729,False,False
+Axis2,2-7 수렴 ideation vs final (paired),Wilcoxon,0.3862707203664827,0.9188854237946729,False,False
+Axis3,3-1 주제(Subject),Mann-Whitney U,0.7093347737164315,0.9728007519425059,False,False
+Axis3,3-1 주제(Subject) (Spearman),Spearman,0.95699816312452,0.9728007519425059,False,False
+Axis3,3-1 형태/스타일(Form/Style),Mann-Whitney U,0.2814569519497597,0.9188854237946729,False,False
+Axis3,3-1 형태/스타일(Form/Style) (Spearman),Spearman,0.9006387310333371,0.9728007519425059,False,False
+Axis3,3-1 품질/기술(Quality/Technical),Mann-Whitney U,0.6140447028727741,0.9710474371011312,False,False
+Axis3,3-1 품질/기술(Quality/Technical) (Spearman),Spearman,0.6854601032109282,0.9728007519425059,False,False
+Axis3,3-1 맥락/환경(Context/Environment),Mann-Whitney U,0.6451486331504293,0.9728007519425059,False,False
+Axis3,3-1 맥락/환경(Context/Environment) (Spearman),Spearman,0.690645238548181,0.9728007519425059,False,False
+Axis3,3-1 기능/인터랙션(Function/Interaction),Mann-Whitney U,0.0334312437603145,0.7577748585671286,True,False
+Axis3,3-1 기능/인터랙션(Function/Interaction) (Spearman),Spearman,0.1014767840932202,0.8316471252645822,False,False
+Axis3,3-1 감성/분위기(Mood/Emotion),Mann-Whitney U,0.9102453912127312,0.9728007519425059,False,False
+Axis3,3-1 감성/분위기(Mood/Emotion) (Spearman),Spearman,0.5396353650208899,0.9188854237946729,False,False
+Axis3,3-2 총 형태소 수,Mann-Whitney U,0.5538411043800002,0.9188854237946729,False,False
+Axis3,3-2 총 형태소 수 (Spearman),Spearman,0.4829032118766285,0.9188854237946729,False,False
+Axis3,3-2 평균 문장 길이,Mann-Whitney U,0.947547044974026,0.9728007519425059,False,False
+Axis3,3-2 평균 문장 길이 (Spearman),Spearman,0.8421942393828779,0.9728007519425059,False,False
+Axis3,3-2 TTR,Mann-Whitney U,0.1810550853211215,0.8316471252645822,False,False
+Axis3,3-2 TTR (Spearman),Spearman,0.1404651034939019,0.8316471252645822,False,False
+Axis3,3-2 내용어 밀도,Mann-Whitney U,0.1195232059566923,0.8316471252645822,False,False
+Axis3,3-2 내용어 밀도 (Spearman),Spearman,0.2807665489315551,0.9188854237946729,False,False
+Axis3,3-2 명사 비율,Mann-Whitney U,0.9475534957826844,0.9728007519425059,False,False
+Axis3,3-2 명사 비율 (Spearman),Spearman,0.9529070438023592,0.9728007519425059,False,False
+Axis3,3-2 조사 다양성,Mann-Whitney U,0.5248120184821989,0.9188854237946729,False,False
+Axis3,3-2 조사 다양성 (Spearman),Spearman,0.7217790482000488,0.9728007519425059,False,False
+Axis3,3-2 동사 비율,Mann-Whitney U,0.0299524504830204,0.7577748585671286,True,False
+Axis3,3-2 동사 비율 (Spearman),Spearman,0.0792965202834033,0.8316471252645822,False,False
+Axis3,3-2 형용사 비율,Mann-Whitney U,0.930101921507972,0.9728007519425059,False,False
+Axis3,3-2 형용사 비율 (Spearman),Spearman,0.4030307333585318,0.9188854237946729,False,False
+Axis3,3-2 외래어 비율,Mann-Whitney U,1.0,1.0,False,False
+Axis3,3-2 문장 수,Mann-Whitney U,0.1598593100128197,0.8316471252645822,False,False
+Axis3,3-2 문장 수 (Spearman),Spearman,0.130669743833481,0.8316471252645822,False,False
